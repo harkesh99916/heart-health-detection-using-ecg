@@ -196,3 +196,5 @@ wrapt==1.15.0
 YOLO3==1.0
 yolov5==7.0.12
 yolov7==0.0.1
+opencv-python-headless
+
