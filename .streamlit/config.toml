@@ -1,2 +1,6 @@
 [python]
 version = "3.10"
+[server]
+headless = true
+port = 8000
+enableCORS = false
